@@ -1,0 +1,16 @@
+[
+{
+  "modid": "uselessores",
+  "name": "Useless Ores",
+  "description": "A useless mod, that adds in Useless Ores",
+  "version": "1.5",
+  "mcversion": "1.12",
+  "url": "https://twitter.com/KristenStuffs",
+  "updateUrl": "",
+  "authorList": ["Kristen"],
+  "credits": "MushroomManToad, Pretender8, Harry, LavaSnakeGaming, TheCrowbarXC, and Charade",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

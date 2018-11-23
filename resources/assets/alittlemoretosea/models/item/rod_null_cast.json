@@ -1,0 +1,6 @@
+{
+    "parent": "alittlemoretosea:item/rod_null",
+    "textures": {
+        "layer0": "alittlemoretosea:items/rod_null_cast"
+    }
+}

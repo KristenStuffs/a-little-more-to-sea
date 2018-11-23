@@ -1,0 +1,8 @@
+{
+"blocks.nuclear_fusor.nuclear_fusor":
+    {
+    "category": "blocks",
+    "subtitle": "blocks.nuclear_fusor.nuclear_fusor",
+    "sounds": [{ "name": "uselessores:blocks/nuclear_fusor/nuclear_fusor", "stream": true}]
+    }
+}
